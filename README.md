@@ -179,4 +179,6 @@ I build document extraction and automation pipelines for:
 
 🌐 Courses and professional tools: https://hasff.github.io/site/
 
+🔗 LinkedIn: https://www.linkedin.com/in/hugo-ferro-1434b414/
+
 
