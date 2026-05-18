@@ -4,6 +4,8 @@ Extract client data from PDF invoices — name, address, phone, amount owed — 
 
 *Status: May 2026*
 
+[![Watch the demo](https://img.youtube.com/vi/xqYbqiP4QkE/maxresdefault.jpg)](https://youtu.be/xqYbqiP4QkE)
+
 ---
 
 #### ⚡ Quick Navigation: [The Problem](#the-problem) | [How it Works](#how-it-works) | [The Agentic Loop](#the-agentic-loop) | [Output](#output) | [Quick Start](#quick-start) | [📩 Get in Touch](#need-this-for-your-organisation)
