@@ -12,7 +12,7 @@ Extract client data from PDF invoices — name, address, phone, amount owed — 
 
 ---
 
-## The Problem
+## The Problem 
 
 A folder of PDF invoices. Each one formatted slightly differently. Someone needs the client data — name, address, phone number, amount owed — in a spreadsheet.
 
