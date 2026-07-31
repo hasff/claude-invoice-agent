@@ -1,5 +1,8 @@
 # claude-invoice-agent
 
+[![Sponsor hasff](https://img.shields.io/badge/Sponsor-hasff-brightgreen?logo=github-sponsors)](https://github.com/sponsors/hasff)
+[![Portfolio](https://img.shields.io/badge/Portfolio-AI%2FML%20Projects-blue?logo=github)](https://hasff.github.io/my-ai-portfolio/)
+
 Extract client data from PDF invoices — name, address, phone, amount owed — and export everything to a formatted Excel file. Automatically. Powered by the Claude API and Tool Use.
 
 *Status: May 2026*
@@ -183,4 +186,4 @@ I build document extraction and automation pipelines for:
 
 🔗 LinkedIn: https://www.linkedin.com/in/hugo-ferro-1434b414/
 
-
+🗂️ **Portfolio:** [more AI/ML projects like this one](https://hasff.github.io/my-ai-portfolio/)
